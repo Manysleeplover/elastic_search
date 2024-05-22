@@ -1,0 +1,1 @@
+1. Конфигурация mapStruct + lombok https://javarush.com/groups/posts/3698-chto-takoe-mapstruct-i-kak-praviljhno-nastroitjh-ego-dlja-moduljhnogo-testirovanija-v-springboo

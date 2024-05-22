@@ -1,0 +1,4 @@
+- pipeline.id: Elastic-stack-demo
+  pipeline.workers: 1
+  pipeline.batch.size: 1
+  path.config: "/usr/share/logstash/config/pipelines/Elastic-stack-demo.conf"
